@@ -1,6 +1,7 @@
 # Arabic-Sentiment-Analysis-With-Emojis
 
-**Arabic sentiment analysis with giving more score to emjis**
+**Arabic sentiment analysis with considering emjis**
+
 ---
 
 * We can control emjis weight and data through YAML file, we can add any +ve or -ve emjis.
@@ -10,10 +11,14 @@
 * it takes value between 0 to infinity , but if it is larger that 2, the emoje weight will big enough so the code will return the result according to the emoje only.
 
 ---
+
 ## Data
 
 You can find the data used for testing here "1.text":
+
 https://drive.google.com/drive/u/0/folders/1KWS7me9LYnpwfYywF5bn1dzt-omThrUP
+
+---
 
 ## Resources:
 
