@@ -10,6 +10,10 @@
 * it takes value between 0 to infinity , but if it is larger that 2, the emoje weight will big enough so the code will return the result according to the emoje only.
 
 ---
+## Data
+
+You can find the data used for testing here "1.text":
+https://drive.google.com/drive/u/0/folders/1KWS7me9LYnpwfYywF5bn1dzt-omThrUP
 
 ## Resources:
 
